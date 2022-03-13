@@ -30,7 +30,7 @@ Users should be able to: see different advices in the screen.
 ### Links
 
 - Solution URL: [GitHub](https://github.com/TinyHero13/advice-generator.github.io)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [Site](https://tinyhero13.github.io/advice-generator.github.io/)
 
 ## My process
 
