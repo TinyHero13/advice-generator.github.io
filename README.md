@@ -23,10 +23,9 @@ Users should be able to: see different advices in the screen.
 
 ### Screenshot
 
-![](./images/Screenshot1.png)
 ![](./images/Screenshot2.png)
 ![](./images/Screenshot3.png)
-
+![](./images/Screenshot1.png)
 
 ### Links
 
